@@ -3,11 +3,13 @@ Notes piscinette :
 Basique :
 Numéro de slide sur de powerpoint
 Ne pas se dévaloriser
-Mentions légales
+Mentions légales (CGU). Regarder des CGU => CDT générales de ventes, etc.
 Conclusion => ouverture
 Intro/Contexte/Cahier des charges
 diagramme = full infinitif
 Estimations nécessaires
+Données personnelles à vérfier
+
 
 Projet : 
 User persona
