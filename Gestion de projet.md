@@ -1,12 +1,17 @@
 Méthode drivé par les use case
 
 Build 
-Conception - Type (accueil, par exemple) - Inception, elaboration, transition
+Conception
+     - accueil, par exemple - 
+         Inception, elaboration, transition
 Design
-Doc projet
-Maquettes
+    Maquettes
+    Thèmes
+        Charte graphique
+        Icônes
+Documentation
 Planning
-Thèmes
+
 
 Inception = use case, 
 elaboration = mini cahier des charges = docu conseil pour dev afin qu'il soit autonome
