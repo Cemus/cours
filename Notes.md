@@ -5,8 +5,11 @@ Numéro de slide sur de powerpoint
 Ne pas se dévaloriser
 Mentions légales
 Conclusion => ouverture
+Intro/Contexte/Cahier des charges
+diagramme = full infinitif
+Estimations nécessaires
 
-
+Projet : 
 User persona
 Moodboard
 Planche de style
@@ -14,23 +17,17 @@ Metode smart
 Matrice des risques
 Diag de gantt
 Analyse SWOT
-Diagramme d'activité
-Diag de séquence
+Diagramme d'activité => par feature
+Diag de séquence => par feature
 Trellot pour les tâches
 Devis
 
+Developpement :
+test => test unitaire
+Techno front, back
+Sécurité inscription : Double authentification, captcha
 
-dev :
-test = > test unitaire
-Techno
-
-Intro/Contexte/CDC
-Estimation nécessaire
-
-
-Devis création
-
-Technos : Gantt project, Trellot (gestion de tâche)
+Technos à check : Gantt project, Trellot - Notion (gestion de tâche)
 
 
 
